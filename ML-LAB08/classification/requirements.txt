@@ -1,0 +1,5 @@
+tensorflow>=2.13
+numpy
+scikit-learn
+matplotlib
+opencv-python
